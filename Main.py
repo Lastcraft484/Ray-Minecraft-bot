@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 from mcstatus import MinecraftServer
 import config
+import aiohttp
 
 bot = commands.Bot(command_prefix='!')
 
