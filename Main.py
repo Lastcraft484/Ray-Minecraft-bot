@@ -14,7 +14,7 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
-    @bot.command()
+@bot.command()
 async def coord(ctx):
     with open('coords.txt') as f:
         await ctx.send(f.read())
