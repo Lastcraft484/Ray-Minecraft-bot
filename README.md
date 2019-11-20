@@ -7,13 +7,10 @@ Simple bot for Checking status of minecraft server
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required dependencys .
 - this bot uses python 3.6
 ```bash
-pip install wip
+pip install mcstatus 
 ```
 ```bash
-pip install wip
-```
-```bash
-pip install wip
+pip install py -3 -m pip install -U discord.py
 ```
 
 ## Usage
