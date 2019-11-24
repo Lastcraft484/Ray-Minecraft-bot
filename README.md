@@ -22,8 +22,7 @@ pip install py -3 -m pip install -U discord.py
 - replace (remove parentheses and put ip here) in main.py with your server ip 
 
 
-## Special message for Ray
-- change my color on the discord server to #375b79
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
